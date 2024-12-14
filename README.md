@@ -34,4 +34,4 @@
 
 https://windscribe.com/yo/m4h56k39 / FirstCubConspirator
 
-https://pr.tn/ref/F6YFAT9TFMJG
+https://pr.tn/ref/F6YFAT9TFMJG (you'll earn one month free of ProtonMail Plus if you use this one)
