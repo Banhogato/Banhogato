@@ -1,3 +1,5 @@
+![urso](https://github.com/user-attachments/assets/bb585194-72d3-4791-8374-f0291a7278de)
+
 # If you like what I do, sponsor me:
 
 [![AMP](https://img.shields.io/badge/AMP-0x39586560E53DCA08d124B0e064f3c62C5d3099da-500050?style=for-the-badge&logo=amp&logoColor=white)](https://etherscan.io/address/0x39586560E53DCA08d124B0e064f3c62C5d3099da)
@@ -30,4 +32,4 @@
 
 <a href="https://airvpn.org/?referred_by=722312" title="Air VPN - The air to breathe the real Internet"><img src="https://airvpn.org/images/promotional/banner_641x91.gif" alt="Air VPN - The air to breathe the real Internet"></a>
 
-https://windscribe.com/yo/m4h56k39
+https://windscribe.com/yo/m4h56k39 / FirstCubConspirator
