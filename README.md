@@ -1,6 +1,6 @@
 ![urso](https://github.com/user-attachments/assets/bb585194-72d3-4791-8374-f0291a7278de)
 
-# If you like what I do, sponsor me:
+# If you like what I do,  ̷h̷e̷l̷p̷ sponsor me:
 
 [![AMP](https://img.shields.io/badge/AMP-0x39586560E53DCA08d124B0e064f3c62C5d3099da-500050?style=for-the-badge&logo=amp&logoColor=white)](https://etherscan.io/address/0x39586560E53DCA08d124B0e064f3c62C5d3099da)
 
