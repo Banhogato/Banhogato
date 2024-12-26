@@ -1,3 +1,10 @@
+[![ar](https://img.shields.io/badge/lang-ar-black.svg)](https://github.com/ddd75a650fee04c0ce576c877521c6bd/Bathcat/blob/main/README.ar.md)
+[![cn](https://img.shields.io/badge/lang-cn-red.svg)](https://github.com/ddd75a650fee04c0ce576c877521c6bd/Bathcat/blob/main/README.cn.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/ddd75a650fee04c0ce576c877521c6bd/Bathcat/blob/main/README.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/ddd75a650fee04c0ce576c877521c6bd/Bathcat/blob/main/README.es.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/ddd75a650fee04c0ce576c877521c6bd/Bathcat/blob/main/README.pt-br.md)
+[![ru](https://img.shields.io/badge/lang-ru-white.svg)](https://github.com/ddd75a650fee04c0ce576c877521c6bd/Bathcat/blob/main/README.ru.md)
+
 ![urso](https://github.com/user-attachments/assets/bb585194-72d3-4791-8374-f0291a7278de)
 
 # 如果你喜欢我所做的，赞助我：
