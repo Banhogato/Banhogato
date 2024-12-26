@@ -27,7 +27,7 @@
 
 [![Polkadot](https://img.shields.io/badge/Polkadot-16Dbrrz68CXS5hGFD8iYmLSUtDf7wfyzkpmzqZ58FcdX8ZYR-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)](https://polkadot.subscan.io/account/16Dbrrz68CXS5hGFD8iYmLSUtDf7wfyzkpmzqZ58FcdX8ZYR)
 
-[![Stellar](https://img.shields.io/badge/Stellar-GBXPMALWU7EBZNA6AZKCSNLNVOYCWQVQBT4FDRX2MEGXOPYJGHFBX2WS-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)
+![Stellar](https://img.shields.io/badge/Stellar-GBXPMALWU7EBZNA6AZKCSNLNVOYCWQVQBT4FDRX2MEGXOPYJGHFBX2WS-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)
 
 [![Tether](https://img.shields.io/badge/Tether-0x6848FcF06ab5847dCe80F41D60C3671058EE1C61-50AF95?style=for-the-badge&logo=tether&logoColor=white)](https://etherscan.io/address/0x6848FcF06ab5847dCe80F41D60C3671058EE1C61)
 
