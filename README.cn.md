@@ -1,6 +1,6 @@
 ![urso](https://github.com/user-attachments/assets/bb585194-72d3-4791-8374-f0291a7278de)
 
-# 如果你喜欢我所做的，请  ̷帮̷助̷ 赞助我：
+# 如果你喜欢我所做的，赞助我：
 
 [![AMP](https://img.shields.io/badge/AMP-0x39586560E53DCA08d124B0e064f3c62C5d3099da-500050?style=for-the-badge&logo=amp&logoColor=white)](https://etherscan.io/address/0x39586560E53DCA08d124B0e064f3c62C5d3099da)
 
